@@ -221,4 +221,4 @@ ORDER BY year_gap DESC;
 
 ## Author
 
-Siddhant — B.Tech, Biomedical Engineering, NIT Raipur
+Siddhant Pastapure — B.Tech, NIT Raipur
